@@ -11,4 +11,6 @@ dependencies:
   - markupsafe
 packages:
   - jupyter-panel-proxy
+channels:
+  - conda-forge
 
