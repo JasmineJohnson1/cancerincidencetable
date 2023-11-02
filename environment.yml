@@ -7,9 +7,7 @@ dependencies:
   - hvplot
   - panel
   - qgrid
-  - jupyterlab_dash
   - holoviews
   - markupsafe
-  - plotly.express
 packages:
   - jupyter-panel-proxy
