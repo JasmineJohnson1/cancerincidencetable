@@ -15,3 +15,5 @@ dependencies:
   - holoviews
   - markupsafe
   - plotly.express
+packages:
+  - jupyter-panel-proxy
