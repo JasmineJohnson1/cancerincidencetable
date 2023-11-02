@@ -11,4 +11,4 @@ dependencies:
 packages:
   - jupyter-panel-proxy
 channels:
-  - pyviz
+  - pyviz=0.0.1
