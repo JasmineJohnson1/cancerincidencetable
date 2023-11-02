@@ -1,4 +1,5 @@
 dependencies:
+  - nbserverproxy
   - bokeh::bokeh
   - pyviz::panel
   - pandas
@@ -10,5 +11,4 @@ dependencies:
   - markupsafe
 packages:
   - jupyter-panel-proxy
-channels:
-  - pyviz=0.0.1
+
