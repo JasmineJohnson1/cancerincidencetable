@@ -1,6 +1,5 @@
 dependencies:
   - bokeh::bokeh
-  - pyviz
   - pyviz::panel
   - pandas
   - numpy
