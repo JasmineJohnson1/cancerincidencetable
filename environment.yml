@@ -1,5 +1,5 @@
 channels:
-  -pyviz
+  - pyviz
 dependencies:
   - nbserverproxy
   - bokeh::bokeh
